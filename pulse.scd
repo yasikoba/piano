@@ -3,7 +3,7 @@
 ~p1 = Synth("pulse", [ch0: 2, ch1: 3, amp: 0]);
 ~d0 = Synth("dust",  [ch0: 0, ch1: 3, amp: 0]);
 ~d1 = Synth("dust",  [ch0: 1, ch1: 2, amp: 0]);
-~volume = 0.5
+~volume = 0.3
 )
 
 
