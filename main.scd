@@ -1,4 +1,4 @@
-// (setq sclang-runtime-directory "~/supercollider/hyper/")
+// (setq sclang-runtime-directory "~/git/piano/")
 
 "boot.scd".load;
 "score.scd".load;
